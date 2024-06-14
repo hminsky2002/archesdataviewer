@@ -1,4 +1,4 @@
-# THIS PROJECT NOW LIVES AT https://github.com/OpenTechStrategies/arches-app-exp
+# This project now lives at https://github.com/OpenTechStrategies/arches-app-exp
 
 
 # Arches Data Viewer
